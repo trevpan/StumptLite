@@ -10,7 +10,7 @@ This is an unofficial fan project which may or may not have input from the Stump
 
 ---
 
-## HOW TO USE
+## How to use
 
 1. Download the proper version of MultiMC for your system. https://multimc.org/
 1. At the top right, log in with your Mojang account information for Minecraft.
