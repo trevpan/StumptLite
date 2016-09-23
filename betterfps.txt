@@ -1,0 +1,3 @@
+#BetterFps Config
+#Fri Sep 23 00:59:59 EDT 2016
+algorithm=rivens-half
